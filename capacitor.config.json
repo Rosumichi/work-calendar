@@ -1,0 +1,6 @@
+{
+  "appId": "com.nikolay.workcalendar",
+  "appName": "Рабочий Календарь",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
